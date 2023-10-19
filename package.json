@@ -1,0 +1,19 @@
+{
+  "name": "api-development",
+  "version": "1.0.0",
+  "description": "creating an application for API",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "NODE",
+    "EXPRESS"
+  ],
+  "author": "Ashlesha",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
