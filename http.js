@@ -13,4 +13,4 @@ http.createServer(function(req, res){
     })
     res.write("<h1>Hello node js</h1>")
     res.end()
-}).listen(3000, ()=>console.log("server is started"))
+}).listen(4000, ()=>console.log("server is started"))
